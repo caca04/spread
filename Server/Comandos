@@ -1,0 +1,4 @@
+compilar = javac -cp spread-4.4.0.jar recThread.java Server.java
+rodar = java -cp .:./spread-4.4.0.jar Server -u Server_2 -p 4803 -s localhost -r 103
+
+
