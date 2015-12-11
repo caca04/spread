@@ -1,10 +1,15 @@
+File Service
+============
+
 Hello, this is my implementation of a distributed system using Spread for the Distributed System class
 
 How to Run:
+-----
 
 1-Run Spread
 
 2-Compile the classes using the following command:(the Spread jar needs to be in the same directory):
+
  javac -cp spread-4.4.0.jar Master.java Slave.java Client.java ListenerMaster.java ListenerClient.java ListenerSlave.java FilesWork.java 
 Compar.java ArquivoSlave.java Sleep.java
 
